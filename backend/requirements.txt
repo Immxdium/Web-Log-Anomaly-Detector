@@ -1,0 +1,6 @@
+pandas
+rich
+requests
+fastapi
+uvicorn[standard]
+python-multipart
